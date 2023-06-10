@@ -7,9 +7,6 @@ function App() {
   
   return (
     <div className="App">
-      <div>
-        YO YOY O
-      </div>
       <Header></Header>
       <Body />
       
