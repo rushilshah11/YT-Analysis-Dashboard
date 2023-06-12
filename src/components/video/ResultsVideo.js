@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Tags from "./metrics/Tags.js";
-import Info from "./metrics/Info.js";
-import "../App.css";
+import Tags from "./metricsVideo/TagsVideo.js";
+import Info from "./metricsVideo/InfoVideo.js";
+import "../../App.css";
 
 class Results extends Component {
   render() {
